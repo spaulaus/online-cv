@@ -12,7 +12,7 @@ sidebar:
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: stanpaulauskas@gmail.com
+  email: stan.paulauskas@gmail.com
   phone: +1-615-414-8150
   website: stanpaulauskas.com #do not add http://
   linkedin: stanley-paulauskas-8b45a88b
@@ -42,7 +42,7 @@ sidebar:
 career-profile:
   title: Executive Summary
   summary: |
-    An accomplished Data Science Manager that builds success through diligent
+    An accomplished Data Science Manager who builds success through diligent
     communication and teamwork. Passionate about mentoring and teaching to improve
     a team. Adept at using agile methodologies to produce high quality results.
     Proven analytical and communication skills across a variety of projects.
