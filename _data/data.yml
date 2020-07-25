@@ -119,54 +119,18 @@ experiences:
         - Increased experiment setup efficiency by 50% using Kanban
         - Demonstrated communication skills through invited seminars
 
-projects:
-  title: Projects
-  #  intro: >
-  #    You can list your side projects or open source libraries in this
-  #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Dolosse
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+certifications:
+  - cert: AWS Certified Cloud Practitioner
+    org: Amazon Web Services (AWS)
+    time: July 2020 - July 2023
+    url: https://www.youracclaim.com/badges/7179e63f-4f01-44f8-9a9f-b171c1b8381d/public_url
+    img: AWS-CloudPractitioner.png
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#publications:
-#  title: Publications
-#  intro: |
-#    You can list your publications in this section. Lorem ipsum dolor sit
-#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#    bibendum fringilla a eu lectus.
-#  papers:
-#    - title: The Art of Computer Programming
-#      link: "#"
-#      authors: Donald E. Knuth
-#      conference: Addison-Wesley, 1968
-#
-#    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#      link: "#"
-#      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#    - title: A syntax directed compiler for Algol 60
-#      link: "#"
-#      authors: Edgar T. Irons
-#      conference: "Comm. ACM 4 (1961), 51–55"
+  - cert: Project Management Professional
+    org: Project Management Institute
+    time: December 2015 - December 2021
+    url: https://www.youracclaim.com/badges/eb953067-3b25-4ca7-8c55-8f1e7d0d3ae9/public_url
+    img: pmp-600px.png
 
 skills:
   title: Skills &amp; Proficiencies
@@ -210,3 +174,36 @@ skills:
 
 footer: >
   S. V. Paulauskas - 2020
+
+#projects:
+#  title: Projects
+#  #  intro: >
+#  #    You can list your side projects or open source libraries in this
+#  #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#  #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  assignments:
+#    - title: Dolosse
+#      link: "#hook"
+#      tagline: "A modern physics data acquisition system based on Apache Kafka and Parquet."
+
+#publications:
+#  title: Publications
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
+#  papers:
+#    - title: The Art of Computer Programming
+#      link: "#"
+#      authors: Donald E. Knuth
+#      conference: Addison-Wesley, 1968
+#
+#    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#      link: "#"
+#      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#    - title: A syntax directed compiler for Algol 60
+#      link: "#"
+#      authors: Edgar T. Irons
+#      conference: "Comm. ACM 4 (1961), 51–55"

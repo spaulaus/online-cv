@@ -180,7 +180,7 @@ p {
         overflow: hidden;
         margin-bottom: 2px;
     }
-    .job-title, .degree {
+    .job-title, .degree, .cert {
         color: $text-color;
         font-size: 16px;
         margin-top: 0;
@@ -232,6 +232,22 @@ p {
         .item {
             margin-bottom: 15px;
         }
+    }
+
+    .cert-image {
+        //used for credential images
+        display: inline-block;
+        max-width: 75px;
+        margin-bottom: 25px;
+        border: 0 transparent;
+        border-radius: 100%;
+    }
+    .cert-duration {
+        color: $text-color-secondary;
+    }
+    .cert-org {
+        color: $text-color;
+        margin: 0 0 0;
     }
 }
 
