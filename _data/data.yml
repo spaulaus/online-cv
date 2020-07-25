@@ -121,12 +121,12 @@ experiences:
 
 projects:
   title: Projects
-#  intro: >
-#    You can list your side projects or open source libraries in this
-#    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  #  intro: >
+  #    You can list your side projects or open source libraries in this
+  #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Velocity
+    - title: Dolosse
       link: "#hook"
       tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -169,26 +169,44 @@ projects:
 #      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiencies
 
-  toolset:
-    - name: Python & Django
-      level: 98%
+  sections:
+    - name: Professional
+      list:
+        - name: Team Management
+          level: 80%
+        - name: Team Development
+          level: 80%
+        - name: Agile Methodologies
+          level: 90%
+        - name: Problem Solving
+          level: 95%
+        - name: Communication
+          level: 90%
+    - name: Programming
+      list:
+        - name: Python
+          level: 70%
+        - name: C & C++
+          level: 70%
+        - name: SQL
+          level: 35%
+        - name: HTML & CSS
+          level: 35%
+        - name: R / Shiny
+          level: 20%
+    - name: Software
+      list:
+        - name: Amazon Web Services
+          level: 65%
+        - name: Apache Spark
+          level: 50%
+        - name: Apache Airflow
+          level: 55%
+        - name: Apache Kafka
+          level: 55%
 
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
-      level: 85%
-
-    - name: Sketch & Photoshop
-      level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  S. V. Paulauskas - 2020

@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 14px;
@@ -75,7 +75,7 @@ p {
         //used for profile image
         max-width: 100px;
         margin-bottom: 15px;
-        border: 0px solid #fff;
+        border: 0 solid #fff;
         border-radius: 100%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
@@ -117,13 +117,13 @@ p {
         .meta {
             color: rgba(256, 256, 256, 0.6);
             font-weight: 500;
-            margin-bottom: 0px;
+            margin-bottom: 0;
             margin-top: 0;
         }
         .time {
             color: rgba(256, 256, 256, 0.6);
             font-weight: 500;
-            margin-bottom: 0px;
+            margin-bottom: 0;
         }
     }
     .languages-container {
@@ -238,13 +238,21 @@ p {
 
 .skillset {
     .item {
+        margin-left: 25px;
         margin-bottom: 15px;
         overflow: hidden;
+    }
+    .item-heading {
+        color: $text-color;
+        font-size: 16px;
+        margin-bottom: -5px;
+        font-weight: bolder;
     }
     .level-title {
         font-size: 14px;
         margin-top: 0;
-        margin-bottom: 12px;
+        margin-bottom: 6px;
+        font-weight: normal;
     }
     .level-bar {
         height: 12px;
