@@ -1,6 +1,10 @@
 ### JetBrains ###
 .idea/
 
+### S3 Website ###
+# Ignore this guy b/c he contains sensitive credentials
+s3_website.yml
+
 ### Jekyll ###
 _site/
 .sass-cache/
