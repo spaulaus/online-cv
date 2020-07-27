@@ -6,7 +6,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache/
-Gemfile.lock
 
 ### Gulp ###
 package.json
