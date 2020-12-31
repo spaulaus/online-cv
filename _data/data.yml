@@ -72,17 +72,26 @@ education:
         - Bullet point
 
 experiences:
+  - role: Software Team Lead
+    time: September 2020 - Present
+    company: XIA LLC
+    details: |
+      At XIA I lead the Dev and TechOps teamsto create state-of-the-art software for use with our hardware products.
+        - Leading team in planning and executing software engineering projects to support company wide product development efforts.
+        - Leading project to migrate on-prem infrastructure to AWS to increase team efficiency.
+        - Designing end-user APIs for use with hardware product lines.
+        - Leading TechOps initiaitves modernizing company infrastructure to improve marketing efficiency.
   - role: Data Science Architect
-    time: October 2018 - Present
+    time: October 2018 - September 2020
     company: Jewelry Television
     details: |
-      At JTV, I drive value by coordinating data needs and projects across business units. I mentor my teammates
+      At JTV, I drove value by coordinating data needs and projects across business units. I mentored teammates
       and interns.
         - Lead team in planning and executing data science pipelines
-        - Mentor and teach team members on data, QA, and development practices
-        - Working with executives to develop data use cases and strategy
-        - Developing scalable data solutions using AWS
-        - Using PySpark to sanitize, congregate, and analyze web data
+        - Mentored team members on data, QA, and development practices
+        - Worked with executives to develop data use cases and strategy
+        - Developed scalable data solutions using AWS
+        - Used PySpark to sanitize, congregate, and analyze web data
         - Worked with Chief Technology Architect to implement big data solutions
 
   - role: Principle Data Scientist
